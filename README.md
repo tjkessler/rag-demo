@@ -95,9 +95,3 @@ frontend/
 
 - This demo uses GPT-2 for simplicity; for production, use a more capable model.
 - ChromaDB is used for vector search; you can swap for other vector DBs as needed.
-
----
-
-## License
-
-MIT License. See LICENSE file if present.
